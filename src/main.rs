@@ -46,7 +46,7 @@ fn main() {
     println!("   Nom de Ma Voiture: {}", voiture.name);
 
     test_voiture_info(voiture);
-    let n = "Massi";
+    let n = "Massi xx ";
     say_hello!(n);
     say_hello!(n, 40);
 }
